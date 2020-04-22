@@ -9,8 +9,8 @@ permalink: /slides/intro/
 
 ![Bonsai](../../assets/images/bonsai-lettering.svg)
 
-### Introduction to Bonsai
-[bonsai-rx.org](http://bonsai-rx.org)
+### Bonsai Club
+[neurogears.org/swc-2020](https://neurogears.org/swc-2020)
 
 ![SWC](../../assets/images/swc.png)
 
@@ -49,6 +49,28 @@ On the nature of system neuroscience tools:
 ![Devices compatible with Bonsai](../../assets/images/bonsai-applications.svg)
 
 </script>
+</section>
+
+<!-- Raw HTML for embedded iframe backgrounds -->
+<section data-background="#000000">
+    <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+    <script type="text/template">## Example:<br>from Shuttling to Videogame</script>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/wwU6TzUJxNU?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=wwU6TzUJxNU&amp;showinfo=0&amp;rel=0&amp;html5=1">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>Gonçalo Lopes, Kampff Lab</th></tr>
+      </table>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/0gIR2f_2rMg?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>Danbee Kim, Kampff Lab</th></tr>
+      </table>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/qXqAXgXJPmo?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>Lorenza Calcaterra, Kampff Lab</th></tr>
+      </table>
+    </section>
 </section>
 
 <!-- Raw HTML for embedded iframe backgrounds -->
@@ -120,28 +142,6 @@ Clock deviation: ± 44 µs
     <img src="https://bonvision.github.io/assets/Images/DisplayLogic/CubemapEnvironment.gif" alt="Cubemap environment" width="45%" />
     <a href="https://bonvision.github.io/">bonvision.github.io</a>
   </section>
-</section>
-
-<!-- Raw HTML for embedded iframe backgrounds -->
-<section data-background="#000000">
-    <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
-    <script type="text/template">## Example:<br>from Shuttling to Videogame</script>
-    </section>
-    <section data-background-iframe="https://www.youtube.com/embed/wwU6TzUJxNU?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=wwU6TzUJxNU&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>Gonçalo Lopes, Kampff Lab</th></tr>
-      </table>
-    </section>
-    <section data-background-iframe="https://www.youtube.com/embed/0gIR2f_2rMg?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>Danbee Kim, Kampff Lab</th></tr>
-      </table>
-    </section>
-    <section data-background-iframe="https://www.youtube.com/embed/qXqAXgXJPmo?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>Lorenza Calcaterra, Kampff Lab</th></tr>
-      </table>
-    </section>
 </section>
 
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
