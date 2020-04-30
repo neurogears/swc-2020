@@ -4,14 +4,6 @@ title: Acquisition and Tracking
 permalink: /worksheets/acquisition/
 ---
 
-Getting Started
----------------
-
-1. Download Bonsai from [http://bonsai-rx.org](http://bonsai-rx.org).
-2. Install **Bonsai - Starter Pack** from the package manager. ![The Bonsai package manager]({{ site.baseurl }}/assets/images/packagemanager.png)
-3. Click the `Updates` tab on the left side of the screen and install any available upgrades.
-4. Read [http://bonsai-rx.org/docs/editor](http://bonsai-rx.org/docs/editor) for an introduction to the user interface.
-
 Video Acquisition
 -----------------
 
