@@ -28,5 +28,6 @@ Bonsai works with OpenCV 2.4, which you will have to download and build from sou
 ```
 sudo add-apt-repository "deb http://security.ubuntu.com/ubuntu xenial-security main"
 ```
-2. Follow [these instructions](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html) to build and install OpenCV 2.4 on your system.
-3. Download the [DLL map config file]({{ site.baseurl }}/assets/scripts/OpenCV.Net.dll.config) for OpenCV.NET and copy it into the folder `Packages/OpenCV.Net.3.3.1/lib/net40` in your local Bonsai install file to redirect dependencies to your system install.
+2. Follow [these instructions](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html) to build and install OpenCV 2.4 on your system. Make sure to build the 2.4 branch, or [download the zip from GitHub](https://github.com/opencv/opencv/archive/2.4.zip).
+3. OpenCV installs libraries into `usr/local/lib`, so you may need to configure your environment using [one of these options](https://unix.stackexchange.com/questions/67781/use-shared-libraries-in-usr-local-lib) to share libraries at a system level.
+4. Download the [DLL map config file]({{ site.baseurl }}/assets/scripts/OpenCV.Net.dll.config) for OpenCV.NET and copy it into the folder `Packages/OpenCV.Net.3.3.1/lib/net40` in your local Bonsai install file to redirect dependencies to your system install.
