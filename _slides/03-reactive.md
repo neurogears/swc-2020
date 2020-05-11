@@ -9,14 +9,14 @@ permalink: /slides/reactive/
 
 ![Bonsai](../../assets/images/bonsai-lettering.svg)
 
-### Bonsai Club
+### Visual Reactive Programming
 [neurogears.org/swc-2020](https://neurogears.org/swc-2020)
 
 ![SWC](../../assets/images/swc.png)
 
 ---
 
-# Visual Reactive Programming
+### Outline
 
 * Metaphor
 * First-order Operators
@@ -180,7 +180,7 @@ permalink: /slides/reactive/
 
 ![Bonsai](../../assets/images/bonsai-lettering.svg)
 
-### Operant Behavior
+### Advanced Operators
 [bonsai-rx.org](http://bonsai-rx.org)
 
 ---
