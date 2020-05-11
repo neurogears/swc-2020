@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: 3. Visual Reactive Programming
-permalink: /slides/operant/
+permalink: /slides/reactive/
 ---
 
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
