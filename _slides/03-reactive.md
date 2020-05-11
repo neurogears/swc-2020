@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: 4. Operant Behavior
+title: 3. Visual Reactive Programming
 permalink: /slides/operant/
 ---
 
