@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: 4. Operant Behavior
+title: 5. Operant Behavior
 permalink: /slides/operant/
 ---
 
