@@ -9,7 +9,7 @@ permalink: /slides/subjects/
 
 ![Bonsai](../../assets/images/bonsai-lettering.svg)
 
-### Higher Order Operators
+### Revision and Subjects
 [neurogears.org/swc-2020](https://neurogears.org/swc-2020)
 
 ![SWC](../../assets/images/swc.png)
