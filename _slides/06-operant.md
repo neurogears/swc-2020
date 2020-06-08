@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: 5. Operant Behavior
+title: 6. Operant Behavior
 permalink: /slides/operant/
 ---
 
@@ -73,33 +73,6 @@ permalink: /slides/operant/
 ###### Concat
 
 ![Concat](../../assets/images/concat.svg)
-
----
-
-### Sharing observable sequences
-
-![Branching](../../assets/images/branching-simple.svg)
-<!-- .element: style="display: inline-block; vertical-align: top;" -->
-![Subjects (Publish)](../../assets/images/subjects-publish-simple.svg)
-<!-- .element: class="fragment" style="display: inline-block; vertical-align: top; padding-left: 120px;" -->
-
---
-
-### Sharing observable sequences
-
-![Publish](../../assets/images/publish.svg)
-<!-- .element: style="display: inline-block; vertical-align: top;" -->
-![Replay](../../assets/images/replay.svg)
-<!-- .element: class="fragment" style="display: inline-block; vertical-align: top; padding-left: 40px;" -->
-
---
-
-### Sharing observable sequences
-
-![Subjects (Publish)](../../assets/images/subjects-publish.svg)
-<!-- .element: style="display: inline-block; vertical-align: top; padding-left: 120px;" -->
-![Subjects (Replay)](../../assets/images/subjects-replay.svg)
-<!-- .element: class="fragment" style="display: inline-block; vertical-align: top; padding-left: 120px;" -->
 
 </script>
 </section>
